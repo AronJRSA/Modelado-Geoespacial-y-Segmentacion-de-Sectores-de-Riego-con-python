@@ -5,31 +5,21 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Descripción
-
 Este proyecto tiene como objetivo analizar la distribución espacial y topográfica de un predio agrícola a partir de datos geoespaciales, con el fin de identificar zonas homogéneas que sirvan como base para la planificación de riego.
-
 A partir de archivos KML generados en campo, se procesan coordenadas y elevaciones para construir modelos del terreno, analizar pendientes y segmentar el área en sectores con características similares.
 
 ### Visualizaciones
 ### Modelo 3D del Terreno
 ![Modelo 3D](Imagenes/3d.png)
-
 ### Curvas de Nivel y Zonificación
 ![Curvas y Zonas](Imagenes/curvas_zona.png)
-
 Modelado Geoespacial y Segmentación de Sectores de Riego con Python
-
 Procesamiento de datos KML y análisis topográfico para el modelado 3D del terreno, generación de curvas de nivel y segmentación de sectores de riego mediante técnicas de clustering.
-
 ### Instalación
-
 pip install pandas matplotlib scipy scikit-learn folium python-docx playwright
 playwright install
-
 ### Ejecución
-
 python main.py
-
 ### Input
 Archivos .kml generados desde Google Earth
 Contienen:
@@ -64,18 +54,7 @@ Curvas de nivel
 Segmentación de zonas
 
 ### Estructura del proyecto
-proyecto/
-data/
-input/
-output/
-results/
-images/
-report/
-docs/
-src/
-main.py
-requirements.txt
-README.md
+<pre> ```text proyecto/ │ ├── data/ │ └── input/ │ └── output/ │ ├── results/ │ ├── images/ │ └── report/ │ ├── docs/ ├── src/ ├── main.py ├── requirements.txt └── README.md ``` </pre>
 ### Notas
 Este proyecto no diseña un sistema de riego completo
 El análisis presentado es una aproximación basada en elevación
