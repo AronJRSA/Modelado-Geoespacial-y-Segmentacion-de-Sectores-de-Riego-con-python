@@ -54,15 +54,17 @@ Levantamiento del terreno
 Modelado 3D
 Curvas de nivel
 Segmentación de zonas
+Generación automática de reportes con visualizaciones geoespaciales
 ### Notas
 Este proyecto no diseña un sistema de riego completo
 El análisis presentado es una aproximación basada en elevación
 Sirve como base para la toma de decisiones en campo
-Posibles mejoras
+Aplicable a huertas, parcelas agrícolas
+## Posibles mejoras
 Cálculo de pendientes más precisos
-Integración con herramientas GIS
 Diseño hidráulico del sistema de riego
 Optimización automática del número de clusters
+Utilizar equipo topográfico más preciso, como una estación total, para mayor exactitu.
 ### Autor
 
 José Aron Salgado Ramirez
