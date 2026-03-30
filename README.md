@@ -52,9 +52,6 @@ Levantamiento del terreno
 Modelado 3D
 Curvas de nivel
 Segmentación de zonas
-
-### Estructura del proyecto
-<pre> ```text proyecto/ │ ├── data/ │ └── input/ │ └── output/ │ ├── results/ │ ├── images/ │ └── report/ │ ├── docs/ ├── src/ ├── main.py ├── requirements.txt └── README.md ``` </pre>
 ### Notas
 Este proyecto no diseña un sistema de riego completo
 El análisis presentado es una aproximación basada en elevación
