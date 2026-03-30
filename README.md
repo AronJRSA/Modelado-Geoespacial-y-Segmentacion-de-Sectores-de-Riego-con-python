@@ -21,11 +21,15 @@ Modelado Geoespacial y Segmentación de Sectores de Riego con Python
 
 Procesamiento de datos KML y análisis topográfico para el modelado 3D del terreno, generación de curvas de nivel y segmentación de sectores de riego mediante técnicas de clustering.
 
-##Instalación
+###Instalación
+
 pip install pandas matplotlib scipy scikit-learn folium python-docx playwright
 playwright install
+
 ##Ejecución
+
 python main.py
+
 ##Input
 Archivos .kml generados desde Google Earth
 Contienen:
@@ -53,14 +57,14 @@ Aproximación del comportamiento del agua basada en diferencias de elevación.
 Generación de mapas interactivos utilizando Folium con imágenes satelitales.
 7. Generación de reportes
 Creación automática de documentos Word con imágenes y descripciones del análisis.
-##Resultados
+###Resultados
 Levantamiento del terreno
 Modelado 3D
 Curvas de nivel
 Segmentación de zonas
 Flujo superficial
 
-##Estructura del proyecto
+###Estructura del proyecto
 proyecto/
 │
 ├── data/
@@ -76,7 +80,7 @@ proyecto/
 ├── main.py
 ├── requirements.txt
 └── README.md
-##Notas
+###Notas
 Este proyecto no diseña un sistema de riego completo
 El análisis presentado es una aproximación basada en elevación
 Sirve como base para la toma de decisiones en campo
@@ -85,6 +89,6 @@ Cálculo de pendientes más precisos
 Integración con herramientas GIS
 Diseño hidráulico del sistema de riego
 Optimización automática del número de clusters
-##Autor
+###Autor
 
-Aron Salgado
+José Aron Salgado Ramirez
