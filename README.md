@@ -13,6 +13,8 @@ A partir de archivos KML generados en campo, se procesan coordenadas y elevacion
 ![Modelo 3D](Imagenes/3d.png)
 ### Curvas de Nivel y Zonificación
 ![Curvas y Zonas](Imagenes/curvas_zona.png)
+### Imagen satelital del predio
+![Imagen satelital](Imagenes/captura_huerta.png)
 Modelado Geoespacial y Segmentación de Sectores de Riego con Python
 Procesamiento de datos KML y análisis topográfico para el modelado 3D del terreno, generación de curvas de nivel y segmentación de sectores de riego mediante técnicas de clustering.
 ### Instalación
