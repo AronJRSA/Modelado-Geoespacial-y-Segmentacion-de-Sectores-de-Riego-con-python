@@ -21,7 +21,7 @@ Procesamiento de datos KML y análisis topográfico para el modelado 3D del terr
 pip install pandas matplotlib scipy scikit-learn folium python-docx playwright
 playwright install
 ### Ejecución
-python main.py
+Modelado_Geo11.py
 ### Input
 Archivos .kml generados desde Google Earth
 Contienen:
