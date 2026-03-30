@@ -1,2 +1,23 @@
-# Proyecto de An醠isis de Datos
-Descripci髇 del proyecto.
+# Modelado Geoespacial y Segmentaci贸n de Sectores de Riego con Python
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+##Descripci贸n
+Este proyecto analiza la distribuci贸n espacial y topogr谩fica de una huerta a partir de datos KML para optimizar la planificaci贸n del riego. Utiliza **Clustering (K-Means)** e interpolaci贸n espacial para segmentar el terreno en sectores homog茅neos basados en elevaci贸n.
+
+##Visualizaciones
+### Modelo 3D del Terreno
+![Modelo 3D](Imagenes/3d.png)
+
+### Curvas de Nivel y Zonificaci贸n
+![Curvas y Zonas](Imagenes/curvas_zona.png)
+
+##Stack Tecnol贸gico
+* **Python** (Pandas, Matplotlib, Scipy, Scikit-learn).
+* **Entrada:** Archivos .kml de Google Earth.
+* **Salida:** Modelado 3D, mapas de zonificaci贸n y reporte autom谩tico en Word.
+
+##Autor
+**Aron Salgado**
