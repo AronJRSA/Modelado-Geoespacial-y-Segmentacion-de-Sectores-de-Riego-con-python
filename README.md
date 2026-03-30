@@ -65,20 +65,17 @@ Segmentación de zonas
 
 ### Estructura del proyecto
 proyecto/
-│
-├── data/
-│   └── input/
-│   └── output/
-│
-├── results/
-│   ├── images/
-│   └── report/
-│
-├── docs/
-├── src/
-├── main.py
-├── requirements.txt
-└── README.md
+data/
+input/
+output/
+results/
+images/
+report/
+docs/
+src/
+main.py
+requirements.txt
+README.md
 ### Notas
 Este proyecto no diseña un sistema de riego completo
 El análisis presentado es una aproximación basada en elevación
