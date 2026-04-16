@@ -8,7 +8,7 @@
 Este proyecto tiene como objetivo analizar la distribución espacial y topográfica de un predio agrícola a partir de datos geoespaciales, con el fin de identificar zonas homogéneas que sirvan como base para la planificación de riego.
 A partir de archivos KML generados en campo, se procesan coordenadas y elevaciones para construir modelos del terreno, analizar pendientes y segmentar el área en sectores con características similares.
 
-### Visualizaciones
+###  Visualizaciones
 ### Modelo 3D del Terreno
 ![Modelo 3D](Imagenes/3d.png)
 ### Curvas de Nivel y Zonificación
